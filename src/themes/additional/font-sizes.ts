@@ -13,6 +13,4 @@ export default {
   "6xl": "2rem", // 32px
   "7xl": "2.25rem", // 36px
   "8xl": "3rem", // 48px
-  "9xl": "4rem", // 48px
-  "10xl": "6rem", // 96px
 };

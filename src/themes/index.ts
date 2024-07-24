@@ -17,7 +17,6 @@ import SIZES from "./additional/sizes";
 import TAG from "./component/tag.theme";
 import GLOBAL from "./additional/global";
 import TABS from "./component/tabs.theme";
-import LINK from "./component/link.theme";
 import LIST from "./component/list.theme";
 import INPUT from "./component/input.theme";
 import TABLE from "./component/table.theme";
@@ -53,7 +52,6 @@ export default extendTheme({
     FormLabel: FORMLABEL,
     Input: INPUT,
     List: LIST,
-    Link: LINK,
     Menu: MENU,
     NumberInput: NUMBERINPUT,
     Radio: RADIO,
